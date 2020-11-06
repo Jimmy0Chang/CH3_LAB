@@ -1,0 +1,4 @@
+﻿  main.c
+c:\c_code\ch3_lab2-2\source\main.c(32): warning C4013: 'ecursive_factorial' 未定義; 假設 extern 傳回整數
+main.obj : error LNK2019: 無法解析的外部符號 _ecursive_factorial 在函式 _recursive_factorial 中被參考
+C:\C_code\ch3_lab2-2\lab2-2\Debug\lab2-2.exe : fatal error LNK1120: 1 個無法解析的外部符號
